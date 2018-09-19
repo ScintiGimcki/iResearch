@@ -6,7 +6,7 @@
 
  ```	
 git clone https://github.com/huangzh10/iResearch.git
-cd AI-Introduction/boston_housing
+cd iResearch/boston_housing
 ```
 
 2. 安装必要的 Python 依赖包
@@ -16,14 +16,14 @@ cd AI-Introduction/boston_housing
 	
 	```bash
 	conda env create -f requirements/iResearch-mac.yml
-	source activate boston_housing
+	source activate iResearch
 	```
 
 	对于 __Windows__：
 	
 	```bash
 	conda env create -f requirements/iResearch-windows.yml
-	source activate boston_housing
+	source activate iResearch
 	```
 3. 打开 notebook
 
