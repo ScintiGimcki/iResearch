@@ -18,10 +18,11 @@
 
 ### 步骤
 
-1. 进入文件夹。
+1. 进入文件夹并激活环境。
 
- ```	
+ ```bash
 cd iResearch/dog_classification
+source activate iResearch
 ```
 
 2. 下载[狗狗数据集](https://pan.baidu.com/s/1Ka0BHL8ls3OQEAm4LYItag)，并将数据集解压大存储库中，地点为`项目路径/dogImages`. 
