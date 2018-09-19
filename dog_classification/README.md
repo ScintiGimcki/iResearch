@@ -18,11 +18,10 @@
 
 ### 步骤
 
-1. 克隆存储库并打开下载的文件夹。
+1. 进入文件夹。
 
  ```	
-git clone https://github.com/huangzh10/AI-Introduction.git
-cd AI-Introduction/dog_classification
+cd iResearch/dog_classification
 ```
 
 2. 下载[狗狗数据集](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/v4-dataset/dogImages.zip) ，并将数据集解压大存储库中，地点为`项目路径/dogImages`. 
@@ -31,26 +30,7 @@ cd AI-Introduction/dog_classification
 
 4. 为狗狗数据集下载 [VGG-16关键特征](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/v4-dataset/DogVGG16Data.npz) 并将其放置于存储库中，位置为`项目路径/bottleneck_features `。
 
-5. 安装必要的 Python 依赖包
-
-
-	对于 __Mac/OSX__：
-	
-	```bash
-	conda env create -f requirements/dog-mac.yml
-	source activate dog-project
-	KERAS_BACKEND=tensorflow python -c "from keras import backend"
-	```
-
-	对于 __Windows__：
-	
-	```bash
-	conda env create -f requirements/dog-windows.yml
-	source activate dog-project
-	set KERAS_BACKEND=tensorflow
-	python -c "from keras import backend"
-	```
-6. 打开 notebook
+5. 打开 notebook
 
  ```
 jupyter notebook dog_app.ipynb
@@ -71,5 +51,3 @@ __除非有要求，否则不要修改任何已经包含的代码。__
 - 将你的 notebook 导出为 HTML 或 PDF 格式，并以 `report.html` 或是 `report.pdf` 命名
 - 任何用于项目中，并且并非由我们为这一项目提供的额外数据图片。
 __请不要将 `dogImages/` 或是 `lfw/` 文件夹中的项目数据包含在内，同样的，请不要将 `bottleneck_features/` 文件夹包含在内。__
-
-此外，你也可以通过 GitHub 连接提交项目。
