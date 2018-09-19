@@ -1,4 +1,4 @@
-## 爱科研 | iResearch
+## [爱科研 | iResearch](https://mp.weixin.qq.com/s/_NLP1tz7jmHa-6rpcyg6jg)
 
 ### 基于卷积神经网络的验证码识别(人工智能)的科研实训项目
 
