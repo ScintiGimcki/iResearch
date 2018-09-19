@@ -24,11 +24,11 @@
 cd iResearch/dog_classification
 ```
 
-2. 下载[狗狗数据集](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/v4-dataset/dogImages.zip) ，并将数据集解压大存储库中，地点为`项目路径/dogImages`. 
+2. 下载[狗狗数据集](https://pan.baidu.com/s/1Ka0BHL8ls3OQEAm4LYItag)，并将数据集解压大存储库中，地点为`项目路径/dogImages`. 
 
-3. 下载[人类数据集](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/v4-dataset/lfw.zip)。并将数据集解压大存储库中，位置为`项目路径/lfw `。
+3. 下载[人类数据集](https://pan.baidu.com/s/106X1yILobxWx0O915-kPjw)。并将数据集解压大存储库中，位置为`项目路径/lfw `。
 
-4. 为狗狗数据集下载 [VGG-16关键特征](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/v4-dataset/DogVGG16Data.npz) 并将其放置于存储库中，位置为`项目路径/bottleneck_features `。
+4. 为狗狗数据集下载 [VGG-16关键特征](https://pan.baidu.com/s/1_R_95GaaI56lIUERJnrhCQ) 并将其放置于存储库中，位置为`项目路径/bottleneck_features `。
 
 5. 打开 notebook
 
