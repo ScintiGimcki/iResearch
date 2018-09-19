@@ -22,9 +22,11 @@
 cd iResearch/dogs_vs_cats
 ```
 
-2. 下载[数据集](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd101/v4-dataset/dogImages.zip) ，并将数据集解压到存储库中。
+2. 下载[数据集](https://pan.baidu.com/s/1Q-vknLZZhPWGZfaXFaIg1g) ，并将数据集解压到存储库中。
 
-3. 打开 notebook
+3. 下载[图片特征](https://pan.baidu.com/s/1yoQf_-v10RHuRtTuCyLjiA) ，并将数据集解压到存储库中。
+
+4. 打开 notebook
 
  ```
 jupyter notebook dogs_vs_cats.ipynb
