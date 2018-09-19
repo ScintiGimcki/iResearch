@@ -16,10 +16,11 @@
 
 ### 步骤
 
-1. 克隆存储库并打开下载的文件夹。
+1. 打开文件夹并激活环境。
 
- ```	
+ ```bash
 cd iResearch/dogs_vs_cats
+source activate iResearch
 ```
 
 2. 下载[数据集](https://pan.baidu.com/s/1Q-vknLZZhPWGZfaXFaIg1g) ，并将数据集解压到存储库中。
