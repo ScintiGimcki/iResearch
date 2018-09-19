@@ -1,4 +1,3 @@
-# 项目1：模型评估与验证
 ## 波士顿房价预测
 
 ### 步骤
@@ -6,7 +5,7 @@
 1. 克隆存储库并打开下载的文件夹。
 
  ```	
-git clone https://github.com/huangzh10/AI-Introduction.git
+git clone https://github.com/huangzh10/iResearch.git
 cd AI-Introduction/boston_housing
 ```
 
@@ -16,14 +15,14 @@ cd AI-Introduction/boston_housing
 	对于 __Mac/OSX__：
 	
 	```bash
-	conda env create -f requirements/boston-mac.yml
+	conda env create -f requirements/iResearch-mac.yml
 	source activate boston_housing
 	```
 
 	对于 __Windows__：
 	
 	```bash
-	conda env create -f requirements/boston-windows.yml
+	conda env create -f requirements/iResearch-windows.yml
 	source activate boston_housing
 	```
 3. 打开 notebook
