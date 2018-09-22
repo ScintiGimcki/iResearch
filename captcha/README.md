@@ -21,7 +21,7 @@ captcha 是用 python 写的生成验证码的库，它支持图片验证码和�
 1. 进入文件夹，激活环境并安装captcha。
 
  ```bash
-cd iResearch/dog_classification
+cd iResearch/captcha
 source activate iResearch
 pip install captcha
 ```
